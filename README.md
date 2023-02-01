@@ -1,2 +1,2 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+File yang bisa di run ada di 'witchsaga/bin/witch_saga.dart'
+Cara run : copy file path dari '/bin/witch_saga.dart' kemudian ketik 'dart (paste file path)' enter
